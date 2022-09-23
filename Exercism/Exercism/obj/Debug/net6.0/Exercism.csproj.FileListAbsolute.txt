@@ -1,0 +1,15 @@
+C:\Git\Learning-C-\Exercism\Exercism\bin\Debug\net6.0\Exercism.exe
+C:\Git\Learning-C-\Exercism\Exercism\bin\Debug\net6.0\Exercism.deps.json
+C:\Git\Learning-C-\Exercism\Exercism\bin\Debug\net6.0\Exercism.runtimeconfig.json
+C:\Git\Learning-C-\Exercism\Exercism\bin\Debug\net6.0\Exercism.dll
+C:\Git\Learning-C-\Exercism\Exercism\bin\Debug\net6.0\Exercism.pdb
+C:\Git\Learning-C-\Exercism\Exercism\obj\Debug\net6.0\Exercism.csproj.AssemblyReference.cache
+C:\Git\Learning-C-\Exercism\Exercism\obj\Debug\net6.0\Exercism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\Learning-C-\Exercism\Exercism\obj\Debug\net6.0\Exercism.AssemblyInfoInputs.cache
+C:\Git\Learning-C-\Exercism\Exercism\obj\Debug\net6.0\Exercism.AssemblyInfo.cs
+C:\Git\Learning-C-\Exercism\Exercism\obj\Debug\net6.0\Exercism.csproj.CoreCompileInputs.cache
+C:\Git\Learning-C-\Exercism\Exercism\obj\Debug\net6.0\Exercism.dll
+C:\Git\Learning-C-\Exercism\Exercism\obj\Debug\net6.0\refint\Exercism.dll
+C:\Git\Learning-C-\Exercism\Exercism\obj\Debug\net6.0\Exercism.pdb
+C:\Git\Learning-C-\Exercism\Exercism\obj\Debug\net6.0\Exercism.genruntimeconfig.cache
+C:\Git\Learning-C-\Exercism\Exercism\obj\Debug\net6.0\ref\Exercism.dll
