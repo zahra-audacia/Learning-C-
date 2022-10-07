@@ -12,10 +12,10 @@ namespace Calculator
         public List<IOperation> Operations { get; set; } = new List<IOperation>();
 
         public void MyCalculator()
-        
-        {
+
+        { 
             Console.WriteLine("How many operations would you like to perform? 1 or 2?");
-            string numberOfOperationsInput = Console.ReadLine();
+           string numberOfOperationsInput = Console.ReadLine();
             var numberOfOperations = Convert.ToInt32(numberOfOperationsInput); 
 
             

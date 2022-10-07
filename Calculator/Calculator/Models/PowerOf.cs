@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Calculator.Models
 {
-    internal class PowerOf : IOperation
+    public class PowerOf : IOperation
     {
         public decimal X { get; set; }
 
