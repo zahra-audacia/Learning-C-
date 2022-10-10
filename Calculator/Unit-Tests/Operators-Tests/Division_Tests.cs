@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+
 using Calculator.Models;
 using FluentAssertions;
-
 
 namespace Unit_Tests.Operators_Tests
 {

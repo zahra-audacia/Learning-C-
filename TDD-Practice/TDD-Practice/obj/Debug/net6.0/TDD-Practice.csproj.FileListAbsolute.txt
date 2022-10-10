@@ -1,0 +1,15 @@
+C:\Git\Learning-C-\TDD-Practice\TDD-Practice\obj\Debug\net6.0\TDD-Practice.csproj.AssemblyReference.cache
+C:\Git\Learning-C-\TDD-Practice\TDD-Practice\obj\Debug\net6.0\TDD-Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\Learning-C-\TDD-Practice\TDD-Practice\obj\Debug\net6.0\TDD-Practice.AssemblyInfoInputs.cache
+C:\Git\Learning-C-\TDD-Practice\TDD-Practice\obj\Debug\net6.0\TDD-Practice.AssemblyInfo.cs
+C:\Git\Learning-C-\TDD-Practice\TDD-Practice\obj\Debug\net6.0\TDD-Practice.csproj.CoreCompileInputs.cache
+C:\Git\Learning-C-\TDD-Practice\TDD-Practice\bin\Debug\net6.0\TDD-Practice.exe
+C:\Git\Learning-C-\TDD-Practice\TDD-Practice\bin\Debug\net6.0\TDD-Practice.deps.json
+C:\Git\Learning-C-\TDD-Practice\TDD-Practice\bin\Debug\net6.0\TDD-Practice.runtimeconfig.json
+C:\Git\Learning-C-\TDD-Practice\TDD-Practice\bin\Debug\net6.0\TDD-Practice.dll
+C:\Git\Learning-C-\TDD-Practice\TDD-Practice\bin\Debug\net6.0\TDD-Practice.pdb
+C:\Git\Learning-C-\TDD-Practice\TDD-Practice\obj\Debug\net6.0\TDD-Practice.dll
+C:\Git\Learning-C-\TDD-Practice\TDD-Practice\obj\Debug\net6.0\refint\TDD-Practice.dll
+C:\Git\Learning-C-\TDD-Practice\TDD-Practice\obj\Debug\net6.0\TDD-Practice.pdb
+C:\Git\Learning-C-\TDD-Practice\TDD-Practice\obj\Debug\net6.0\TDD-Practice.genruntimeconfig.cache
+C:\Git\Learning-C-\TDD-Practice\TDD-Practice\obj\Debug\net6.0\ref\TDD-Practice.dll

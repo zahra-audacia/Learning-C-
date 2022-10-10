@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Calculator
 {
-    internal class CalculatorV2
+    public class CalculatorV3
     {
     }
 }

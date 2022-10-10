@@ -8,10 +8,10 @@ using static Calculator.Operations;
 
 namespace Calculator.Models
 {
-    internal class CalculatorV2
+    public class CalculatorV2
     {
         // private var _input, which is of Type Input (we declared in another file)
-        private Input _input;
+        //private Input _input;
 
         private decimal _total;
         public decimal Total => _total;
@@ -33,22 +33,22 @@ namespace Calculator.Models
         }
 
         //Get User input => an expression that we will calculate. E.g. 3+5-4
-        public void GetInput()
-        {
-            var expressionInput = new Input("Please enter the equation you would like me to calculate: ");
-            Console.WriteLine(expressionInput.Question);
-            expressionInput.Answer = Console.ReadLine();
-            _input = expressionInput;
-        }
+        //public void GetInput()
+        //{
+        //    var expressionInput = new Input("Please enter the equation you would like me to calculate: ");
+        //    Console.WriteLine(expressionInput.Question);
+        //    expressionInput.Answer = Console.ReadLine();
+        //    _input = expressionInput;
+        //}
 
         //parsing and converting the input to check it is a valid expression 
-        public bool ParseInput()
+        public decimal ParseInput(string input)
         {
             var AllInputsAreValid = true;
 
-            for (int i = 0; i < _input.Answer.Length; i++)
+            for (int i = 0; i < input.Length; i++)
             {
-                var currentChar = _input.Answer[i].ToString();
+                var currentChar = input[i].ToString();
                 if (currentChar == " ")
                 {
                     continue;
@@ -68,7 +68,7 @@ namespace Calculator.Models
                 }
                 if (_operations.Any(o => o.Operation.ToString() == currentChar))
                 {
-                    var nextNumber = _input.Answer[i + 1].ToString();
+                    var nextNumber = input[i + 1].ToString();
                     decimal.TryParse(nextNumber, out var number);
 
                     switch (currentChar)
@@ -111,7 +111,7 @@ namespace Calculator.Models
                     AllInputsAreValid = false;
                 }
             }
-            return AllInputsAreValid;
+            return _total;
             
         }
 
